@@ -1,3 +1,3 @@
-# Kalman-Filter
+# Kalman Filter
 
 ![kalman filter diagram](diagram.png)
